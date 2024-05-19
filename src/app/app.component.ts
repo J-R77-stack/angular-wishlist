@@ -13,5 +13,5 @@ export class AppComponent {
     new WishItem('Find Grass that cuts itself'),
   ];
 
-  filter: any = () => {};
+  filter: any;
 }
